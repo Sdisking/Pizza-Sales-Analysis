@@ -225,26 +225,43 @@ group by Category,name order by category) as abc)as xyz where ranked <=3;
 
 ## 🔍 What I did:
 **•	Queried and explored 4 relational tables using MySQL**
+
 **•	Answered real-world business questions across basic, intermediate, and advanced levels**
+
 **•	Applied joins, grouping, window functions, subqueries, and aggregations**
+
 **•	Extracted key insights on:**
+
 **o	Top-selling pizzas & revenue drivers 📊**
+
 **o	Customer order behavior by hour 🕒**
+
 **o	Category-wise sales performance 🍕**
+
 **o	Daily trends & cumulative revenue over time 📈**
 
 ## 📌 Key Outcomes:
 **•	Identified top 3 pizzas by revenue**
+
 **•	Found peak order hours to support staffing decisions**
+
 **•	Calculated revenue contribution of each pizza type**
+
 **•	Used SQL to transform raw sales data into meaningful, strategic insights**
+
 **✅ This project helped me strengthen my SQL skills for real-world analytics and reinforced the importance of data in making smart business decisions.**
+
 **🛠️ Tools Used: MySQL, Excel | 📁 Datasets: orders, order_details, pizzas, pizza_types**
 
 ## SUMMARY & KEY TAKEAWAYS
 **🔍 Explored a real-world sales dataset using structured SQL queries across varying complexity levels.**
+
 **📈 Identified top-performing pizzas by order volume and revenue, as well as underperforming ones.**
+
 **🕒 Discovered peak ordering hours and average daily order patterns to help optimize operations.**
+
 **💰 Analyzed category-wise sales performance and cumulative revenue trends over time.**
+
 **📊 Utilized advanced SQL techniques like window functions, ranking, and subqueries for deep insights.**
+
 **🚀 Transformed raw sales data into actionable business intelligence, reinforcing SQL’s value in data-driven decision-making.**
